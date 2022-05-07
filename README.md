@@ -22,12 +22,6 @@ A brain tumor is a mass or growth of abnormal cells in your brain. Many differen
 It is the interior lining of the eyeball, including the retina (the light-sensitive screen), optic disc (the head of the nerve to the eye), and the macula (the small spot in the retina where vision is keenest). Without prompt diagnosis and treatment, retinal fundus diseases can cause irreversible vision loss. 
 
 
-## Tech stack used
-
-* Web Application->Flask,javascript,HTML,CSS
-* Android application->Flutter
-* Machine learning Algos CNN
-
 ### Models Used -
 
 I. Machine Learning Models -
@@ -47,6 +41,10 @@ II. Deep Learning Models -
 
 
 ## Contributors
+
+<a href="https://github.com/Sumedha2510/Neuro-Fuzzy-Project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sumedha2510/Neuro-Fuzzy-Project" />
+</a>
 
 1. [Sumedha Banthia](https://github.com/Sumedha2510) - RA1911003010208 
 2. [Aditi Rastogi](https://github.com/AditiRastogi250701) - RA1911003010219 
